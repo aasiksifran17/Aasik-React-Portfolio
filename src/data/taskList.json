@@ -291,7 +291,7 @@
       {
         "id": 2,
         "title": "Aasik-Portfolio-React",
-        "live": "",
+        "live": "https://aasik-react-portfolio.vercel.app/",
         "techStacks": [
           "React.js | ",
           "TailwindCSS | ",
