@@ -4,7 +4,7 @@ I am Aasik and My Portfolio is a personal website created from scratch using Rea
 
 ### Live link
 
-https:
+https: https://aasik-react-portfolio.vercel.app/
 
 ## Technologies and Libraries Used and Learned
 
