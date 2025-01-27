@@ -11,7 +11,7 @@ const TheFootNote = () => {
             target="_blank"
             className="font-normal hover:underline hover:font-semibold"
           >
-            K.M. Mohamed Aasik
+            K. Mohamed Aasik
           </Link>{" "}
           ❤️
         </span>
