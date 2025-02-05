@@ -3,36 +3,36 @@
     "tasks": [
       {
         "id": 1,
-        "title": "My Resume",
-        "live": "https://mushkir.github.io/Mushkir_Resume",
-        "techStacks": ["HTML | ", "CSS"],
-        "github": "https://github.com/Mushkir/Mushkir_Resume",
-        "imgLink": "https://i.ibb.co/nkPcSxY/screencapture-mushkir-github-io-Mushkir-Resume-2024-03-14-17-43-03.png",
+        "title": "Nintavur Restaurant",
+        "live": "https://aasiksifran17.github.io/Nintavur-Pizza-Restaurant/",
+        "techStacks": ["HTML | ", "CSS | JavaScript"],
+        "github": "https://github.com/aasiksifran17/Youtube-Clone-.git",
+        "imgLink": "https://i.ibb.co/VYvS7P7z/Screenshot-2025-02-05-220441.png",
         "type": "F",
-        "projectType": "cdn",
-        "description": "During the six-month internship at CyberDude Networks (Pvt) Ltd, the task assigned was to assess the proficiency level in HTML and vanilla CSS as part of measuring the interns' knowledge."
+        "projectType": "ac",
+        "description": "During the individual, the task assigned was to assess the proficiency level in HTML, CSS and Java Script as part of measuring the ' knowledge."
       },
 
       {
         "id": 2,
-        "title": "My Portfolio",
-        "live": "https://mushkir.github.io/mushkir_portfolio/",
-        "techStacks": ["HTML | ", "CSS"],
-        "github": "https://github.com/Mushkir/mushkir_portfolio",
-        "imgLink": "https://i.ibb.co/C78tMd3/screencapture-mushkir-github-io-mushkir-portfolio-2024-03-14-17-43-21.png",
-        "type": "F",
-        "projectType": "cdn",
-        "description": "During the six-month internship at CyberDude Networks (Pvt) Ltd, the objective of this task was to cultivate expertise in HTML and vanilla CSS."
+        "title": "Hire Spot",
+        "live": "",
+        "techStacks": ["Bootstrap | ", "PHP | ", "MySQL | "],
+        "github": "https://github.com/aasiksifran17/HireSpot-Web-Project.git",
+        "imgLink": "https://i.ibb.co/jv4yr8vf/Screenshot-2025-02-05-224225.png",
+        "type": "B",
+        "projectType": "ac",
+        "description": "During the individual, the task assigned was to assess the proficiency level in Bootstrap, PHP and MySQL as part of measuring the ' knowledge."
       },
       {
         "id": 3,
-        "title": "My Portfolio - Basic Bootstrap",
+        "title": "Youtube Clone",
         "live": "https://mushkir.github.io/mushkir_portfolio_bootstrap/",
         "techStacks": ["HTML | ", "CSS | ", "Bootstrap"],
         "github": "https://github.com/Mushkir/mushkir_portfolio_bootstrap",
         "imgLink": "https://i.ibb.co/nCVFFSL/screencapture-mushkir-github-io-mushkir-portfolio-bootstrap-2024-03-15-01-31-44.png",
         "type": "F",
-        "projectType": "cdn",
+        "projectType": "ac",
         "description": "The assigned task involved understanding the fundamental aspects of the Bootstrap framework by developing the same portfolio using HTML, Vanilla CSS, and Bootstrap. This approach helps to facilitate comprehension of Bootstrap's utility and functionality."
       },
       {
@@ -78,7 +78,7 @@
         "type": "F",
         "projectType": "cdn",
         "description": "This project is a clone of the Google Pay (GPAY) application's user interface, developed using HTML and Tailwind CSS. The main goal of this project is to enhance the skills in UI/UX to understand TailwindCSS more deeply."
-      },
+      },  
       {
         "id": 8,
         "title": "JavaScript DOM - Landing Page Idea",
@@ -312,7 +312,7 @@
         "live": "https://github.com/aasiksifran17",
         "techStacks": [
           "HTML | ",
-          " ",
+          "CSS | ",
           "",
           "",
           "",
