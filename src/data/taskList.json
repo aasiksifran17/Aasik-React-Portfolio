@@ -26,14 +26,14 @@
       },
       {
         "id": 3,
-        "title": "Youtube Clone",
-        "live": "https://mushkir.github.io/mushkir_portfolio_bootstrap/",
-        "techStacks": ["HTML | ", "CSS | ", "Bootstrap"],
-        "github": "https://github.com/Mushkir/mushkir_portfolio_bootstrap",
-        "imgLink": "https://i.ibb.co/nCVFFSL/screencapture-mushkir-github-io-mushkir-portfolio-bootstrap-2024-03-15-01-31-44.png",
+        "title": "Meet-up - App",
+        "live": "https://meetup-app-pearl-omega.vercel.app/",
+        "techStacks": ["TypeScript | ", "React.js | ", "Socket.io" ,"Peer.js" ],
+        "github": "https://github.com/aasiksifran17/Meetup-App.git",
+        "imgLink": "https://i.ibb.co/QFqzRmwH/Screenshot-2025-02-11-143806.png",
         "type": "F",
         "projectType": "ac",
-        "description": "The assigned task involved understanding the fundamental aspects of the Bootstrap framework by developing the same portfolio using HTML, Vanilla CSS, and Bootstrap. This approach helps to facilitate comprehension of Bootstrap's utility and functionality."
+        "description": "The assigned task involved understanding the fundamental aspects of the TypeScript & Peer.js framework by developing the Meetup -APp using TypeScript, React.Js, and Socket.io. This approach helps to facilitate comprehension of Library's utility and functionality."
       },
       {
         "id": 4,
@@ -51,10 +51,10 @@
         "title": "WhatsApp UI Clone - TailwindCSS",
         "live": "https://mushkir.github.io/WhatsApp-iOS-UI-Sample/",
         "techStacks": ["HTML | ", "TailwindCSS"],
-        "github": "https://github.com/Mushkir/WhatsApp-iOS-UI-Sample",
+        "github": "https://github.com/aasiksifran17/WhatsApp-iOS-UI-Sample-master.git",
         "imgLink": "https://i.ibb.co/MPrh4Zt/screencapture-mushkir-github-io-Whats-App-i-OS-UI-Sample-2024-03-15-01-34-45.png",
         "type": "F",
-        "projectType": "cdn",
+        "projectType": "ac",
         "description": "This project is a clone of the WhatsApp iOS application's user interface, developed using HTML and Tailwind CSS. The goal of this project is to enhance the skills in UI/UX to understand about basics of \"TailwindCSS\" and to identify the difference between Bootstrap and TailwindCSS."
       },
       {
