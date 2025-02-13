@@ -37,14 +37,14 @@
       },
       {
         "id": 4,
-        "title": "Movie Listing - Bootstrap",
-        "live": "https://mushkir.github.io/movie_cafe_UI_with_bootsrap/ ",
-        "techStacks": ["HTML | ", "CSS | ", "Bootstrap"],
-        "github": "https://github.com/Mushkir/movie_cafe_UI_with_bootsrap",
-        "imgLink": "https://i.ibb.co/tb2jnVj/screencapture-mushkir-github-io-movie-cafe-UI-with-bootsrap-2024-03-14-17-44-50.png",
+        "title": "KoboDrop-Front-End",
+        "live": "",
+        "techStacks": ["HTML | ", "CSS | "],
+        "github": "https://github.com/aasiksifran17/Web-Development-Clevonex/tree/85f5a7825a386b9d3a64b43175ae9e7594beda19/website",
+        "imgLink": "https://i.ibb.co/MyzD5w9T/Screenshot-2025-02-13-232115.png",
         "type": "F",
-        "projectType": "cdn",
-        "description": "It is a responsive UI project designed to enhance the knowledge of the Bootstrap framework. With a combination of HTML, CSS, Bootstrap, and SCSS, this project replicates a modern and user-friendly web interface for a fictional \"Movie Cafe.\" The goal of this project is to get a deeper understanding of Bootstrap components and customizations."
+        "projectType": "personal",
+        "description": "It is a responsive UI project designed to enhance the knowledge of the Basic. With a combination of HTML, CSS,, this project replicates a modern and user-friendly web interface for a fictional \"KoboDrop-Front-End\" The goal of this project is to get a deeper understanding of HTML components and customizations."
       },
       {
         "id": 5,
