@@ -59,25 +59,25 @@
       },
       {
         "id": 6,
-        "title": "Instagram UI Clone - TailwindCSS",
-        "live": "https://mushkir.github.io/Instagram-UI-TailwindCSS/",
-        "techStacks": ["HTML | ", "TailwindCSS"],
-        "github": "https://github.com/Mushkir/Instagram-UI-TailwindCSS",
-        "imgLink": "https://i.ibb.co/8B6tp4T/Screenshot-2024-03-14-at-22-55-30-2.png",
+        "title": "Bookmarker",
+        "live": "https://bookmarker-ivory.vercel.app/",
+        "techStacks": ["Bootstrap | ", "CSS | ","JavaScript | " ],
+        "github": "https://github.com/aasiksifran17/Bookmarker.git",
+        "imgLink": "https://i.ibb.co/vvqT1V4W/Screenshot-2025-03-04-154335.png",
         "type": "F",
-        "projectType": "cdn",
-        "description": "This project is a clone of the Instagram application's user interface, developed using HTML and Tailwind CSS. The main goal of this project is to enhance the skills in UI/UX to understand about TailwindCSS more deeply."
+        "projectType": "personal",
+        "description": "During the individual, the task assigned was to assess the proficiency level in Bootstrap and CSS as part of measuring the ' knowledge."
       },
       {
         "id": 7,
-        "title": "Google Pay UI Clone - TailwindCSS",
-        "live": "https://mushkir.github.io/gpay-ui-clone/",
-        "techStacks": ["HTML | ", "TailwindCSS | ", "Vite"],
-        "github": "https://github.com/Mushkir/gpay-ui-clone",
-        "imgLink": "https://i.ibb.co/DwP1KF7/screencapture-mushkir-github-io-gpay-ui-clone-2024-03-15-01-41-33.png",
+        "title": "Personal Portfolio",
+        "live": "https://nazuware-intern-task-01.vercel.app/",
+        "techStacks": ["Bootstrap | ", "CSS | ", "JavaScript | "],
+        "github": "https://github.com/aasiksifran17/nazuware-intern-task-01.git",
+        "imgLink": "https://i.ibb.co/Dgr1kQPw/Screenshot-2025-03-04-155108.png",
         "type": "F",
-        "projectType": "cdn",
-        "description": "This project is a clone of the Google Pay (GPAY) application's user interface, developed using HTML and Tailwind CSS. The main goal of this project is to enhance the skills in UI/UX to understand TailwindCSS more deeply."
+        "projectType": "personal",
+        "description": "This project is a Nazuware internship user interface, developed using Bootstrap, CSS and  JavaScript. The main goal of this project is to enhance the skills in UI/UX to understand more deeply."
       },  
       {
         "id": 8,
