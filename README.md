@@ -1,6 +1,6 @@
 # Aasik Portfolio
 
-I am Aasik and My Portfolio is a personal website created from scratch using React JS, designed to showcase my skills, projects, and personal information. This responsive portfolio serves as a digital representation of my work, providing visitors with insights into my abilities and accomplishments. By clicking [here](https://mushkir.github.io/ you can explore my previous porfolio which is developed using HTML, Vanilla CSS, and Vanilla JavaScript.
+I am Aasik and My Portfolio is a personal website created from scratch using React JS, designed to showcase my skills, projects, and personal information. This responsive portfolio serves as a digital representation of my work, providing visitors with insights into my abilities and accomplishments. By clicking [here] https://github.com/aasiksifran17 you can explore my previous porfolio which is developed using HTML, Vanilla CSS, and Vanilla JavaScript.
 
 ### Live link
 
