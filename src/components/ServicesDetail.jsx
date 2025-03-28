@@ -101,24 +101,25 @@ const ServicesInfo = () => {
           navigate={"/fdgh"}
         />
 
-         {/* Mobile Application Development */}
-         <Card
-          heading="Mobile Application Development"
-          icon={
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width="60"
-              height="60"
-              viewBox="0 0 24 24"
-            >
-              <path
-                fill="currentColor"
-                d="M17.9 17.39c-.26-.8-1.01-1.39-1.9-1.39h-1v-3a1 1 0 0 0-1-1H8v-2h2a1 1 0 0 0 1-1V7h2a2 2 0 0 0 2-2v-.41a7.984 7.984 0 0 1 2.9 12.8M11 19.93c-3.95-.49-7-3.85-7-7.93c0-.62.08-1.22.21-1.79L9 15v1a2 2 0 0 0 2 2m1-16A10 10 0 0 0 2 12a10 10 0 0 0 10 10a10 10 0 0 0 10-10A10 10 0 0 0 12 2"
-              />
-            </svg>
-          }
-          navigate={"/fdgh"}
-        />
+        {/* Mobile Application Development */}
+<Card
+  heading="Mobile Application Development"
+  icon={
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="60"
+      height="60"
+      viewBox="0 0 24 24"
+    >
+      <path
+        fill="currentColor"
+        d="M7 2a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H7m0 2h10v16H7V4m5 14a1 1 0 1 1 0 2 1 1 0 0 1 0-2m-2-2h4v1h-4v-1z"
+      />
+    </svg>
+  }
+  navigate={"/mobile-development"}
+/>
+
       </div>
     </div>
   );
