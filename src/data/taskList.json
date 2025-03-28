@@ -27,7 +27,7 @@
       {
         "id": 3,
         "title": "Meet-up - App",
-        "live": "https://meetup-app-pearl-omega.vercel.app/",
+        "live": "https://meetup-app-green.vercel.app/",
         "techStacks": ["TypeScript | ", "React.js | ", "Socket.io" ,"Peer.js" ],
         "github": "https://github.com/aasiksifran17/Meetup-App.git",
         "imgLink": "https://i.ibb.co/QFqzRmwH/Screenshot-2025-02-11-143806.png",
@@ -81,14 +81,14 @@
       },  
       {
         "id": 8,
-        "title": "JavaScript DOM - Landing Page Idea",
-        "live": "https://mushkir.github.io/javascript-dom-landing-page-idea/",
-        "techStacks": ["HTML | ", "TailwindCSS | ", "JavaScript | ", "Vite"],
-        "github": "https://github.com/Mushkir/javascript-dom-landing-page-idea",
-        "imgLink": "https://i.ibb.co/ZSQX32p/screencapture-mushkir-github-io-javascript-dom-landing-page-idea-index-html-2024-03-14-23-12-55.png",
+        "title": " Sublime A Smart Billing Web Application!",
+        "live": "https://sublime-prints.vercel.app/",
+        "techStacks": ["Bootstrap | ",  "JavaScript | ", "CSS | "],
+        "github": "https://github.com/aasiksifran17/SUBLIME-PRINTS.git",
+        "imgLink": "https://i.ibb.co/5Wvpm5D4/Screenshot-2025-03-28-160841.png",
         "type": "F",
-        "projectType": "cdn",
-        "description": "This task was held/considered as Skill Analysis. The goal of this task is to measure interns' (our) skills which are learned through the previous tasks. Based on this purpose, this JavaScript DOM Landing page was designed. with responsive design with a little bit of JavaScript interactivity."
+        "projectType": "personal",
+        "description": "This task was held/considered as Skill Analysis. The goal of this task is to measure interns' (our) skills which are learned through the previous tasks.."
       },
       {
         "id": 9,
