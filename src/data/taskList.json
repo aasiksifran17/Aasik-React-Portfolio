@@ -92,14 +92,14 @@
       },
       {
         "id": 9,
-        "title": "Simple Form - Vanilla JavaScript",
-        "live": "https://mushkir.github.io/dom-form-challenge/",
-        "techStacks": ["HTML | ", "TailwindCSS | ", "JavaScript | ", "Vite"],
-        "github": "https://github.com/Mushkir/dom-form-challenge",
-        "imgLink": "https://i.ibb.co/ry9GjJZ/screencapture-mushkir-github-io-dom-form-challenge-2024-03-15-01-49-17.png",
+        "title": "Netflix Clone",
+        "live": "https://netflix-clone-ivory-eight-46.vercel.app/",
+        "techStacks": [" | Bootstrap | "],
+        "github": "https://github.com/aasiksifran17/Netflix-Clone.git",
+        "imgLink": "https://i.ibb.co/C50jBS8J/Screenshot-2025-04-06-172336.png",
         "type": "F",
-        "projectType": "cdn",
-        "description": "This task was given to understand how to work with form data such as getting data from users and displaying those data in UI through JavaScript and to understand the concept of DOM."
+        "projectType": "ac",
+        "description": "This task was Developed to Itself and Practices,measure interns' (our) skills which are learned through the previous tasks.."
       },
       {
         "id": 10,
