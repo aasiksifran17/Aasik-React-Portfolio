@@ -1,6 +1,6 @@
 {
     "rewrites": [
-      { "source": "/:path*", "destination": "taskList.json" }
+      { "source": "/:path*", "destination": "https://aasik-react-portfolio.vercel.app/tasks" }
     ]
   }
 
