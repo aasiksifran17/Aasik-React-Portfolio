@@ -2,6 +2,7 @@ import SocialLinks from "../SocialLinks";
 import { TypewriterEffectSmooth } from "../ui/type-writer-effect";
 import { TextGenerateEffect } from "../ui/text-generate-effect";
 import { Link } from "react-router-dom";
+import { useState, useEffect } from 'react';
 // import resume from "../../assets/docs/Aasik CV";
 
 const HeroDetail = () => {
@@ -30,6 +31,8 @@ const HeroDetail = () => {
             margin={"mb-3"}
             cursorColor={"bg-aqua-color"}
           />
+
+          
 
           {/* And I'm a Passionate Full Stack Web Developer */}
           <div className="mb-3" data-aos="fade-right" data-aos-duration="3000">

@@ -61,7 +61,7 @@ const TheProjectSection = () => {
         <TaskCard
           imgSource={personal[0].imgLink}
           title={personal[0].title}
-          liveUrl={""}
+          liveUrl={"https://streamable.com/6c1o7i"}
           githubUrl={personal[0].github}
           techStacks={personal[0].techStacks}
         />

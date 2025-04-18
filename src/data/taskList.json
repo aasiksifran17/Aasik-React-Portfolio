@@ -48,14 +48,14 @@
       },
       {
         "id": 5,
-        "title": "WhatsApp UI Clone - TailwindCSS",
-        "live": "https://mushkir.github.io/WhatsApp-iOS-UI-Sample/",
+        "title": "WhatsApp UI Clone - Chat Box",
+        "live": "https://whats-app-ui-clone-tailwind-css.vercel.app/",
         "techStacks": ["HTML | ", "TailwindCSS"],
-        "github": "https://github.com/aasiksifran17/WhatsApp-iOS-UI-Sample-master.git",
-        "imgLink": "https://i.ibb.co/MPrh4Zt/screencapture-mushkir-github-io-Whats-App-i-OS-UI-Sample-2024-03-15-01-34-45.png",
+        "github": "https://github.com/aasiksifran17/WhatsApp-UI-Clone---TailwindCSS.git",
+        "imgLink": "https://i.ibb.co/M5Gmm6CM/Screenshot-2025-04-18-193155.png",
         "type": "F",
         "projectType": "personal",
-        "description": "This project is a clone of the WhatsApp iOS application's user interface, developed using HTML and Tailwind CSS. The goal of this project is to enhance the skills in UI/UX to understand about basics of \"TailwindCSS\" and to identify the difference between Bootstrap and TailwindCSS."
+        "description": "This project is a clone of the WhatsApp iOS application's user interface, developed using HTML . The goal of this project is to enhance the skills in UI/UX to understand about basics ofidentify the difference between Bootstrap."
       },
       {
         "id": 6,
@@ -103,169 +103,16 @@
       },
       {
         "id": 10,
-        "title": "Form with LocalStorage - JS",
-        "live": "https://mushkir.github.io/cyberdude-challenges/JavaScript/02-javascript-dom/02-form-input-with-local-storage/dist/index.html",
-        "techStacks": ["HTML | ", "TailwindCSS | ", "JavaScript | ", "Vite"],
-        "github": "https://github.com/Mushkir/cyberdude-challenges/tree/main/JavaScript/02-javascript-dom/02-form-input-with-local-storage",
-        "imgLink": "https://i.ibb.co/qBsTrd9/screencapture-localhost-5174-form-input-with-local-Storage-2024-03-15-04-34-37.png",
+        "title": "Cargo-TOM ",
+        "live": "https://practical-exam-3.vercel.app/",
+        "techStacks": ["HTML | ", "CSS | ", "JavaScript | ", "Bootstrap | "],
+        "github": "https://github.com/aasiksifran17/Practical-Exam-3.git",
+        "imgLink": "https://i.ibb.co/N6S4FSP2/Screenshot-2025-04-18-192416.png",
         "type": "F",
-        "projectType": "cdn",
-        "description": "This task was given to understand form validation/data validation. Because it is the most important aspect. This task was given to learn about data validation with various data types and to get a basic idea about localStorage concepts such as saving, showing, and deleting the data from localStorage with the use of JavaScript. "
-      },
-      {
-        "id": 11,
-        "title": "Interns Profile - Display data based on JSON",
-        "live": "https://mushkir.github.io/json-task/",
-        "techStacks": ["HTML | ", "TailwindCSS | ", "JavaScript | ", "Vite"],
-        "github": "https://github.com/Mushkir/cyberdude-challenges/tree/main/JavaScript/02-javascript-dom/03-json-data-display-in-ui",
-        "imgLink": "https://i.ibb.co/0Chpgxx/Screenshot-2024-03-14-at-22-59-07-2.png",
-        "type": "F",
-        "projectType": "cdn",
-        "description": "This task was given to get the idea about how to work with the JSON data such as creating a JSON file with the data set, and displaying those data in UI based on the conditions or requirements of the users. "
-      },
-      {
-        "id": 12,
-        "title": "IP Finder - DOM & API",
-        "live": "https://mushkir.github.io/get-my-ip-app/",
-        "techStacks": ["HTML | ", "TailwindCSS | ", "JavaScript | ", "Vite"],
-        "github": "https://github.com/Mushkir/get-my-ip-app",
-        "imgLink": "https://i.ibb.co/CKBtktp/Screenshot-2024-03-15-at-02-02-31-2.png",
-        "type": "F",
-        "projectType": "cdn",
-        "description": "This task was given to get an idea about how to work with the API, various types of fetching data from API, and display those data in UI based on the conditions or requirements of the users."
-      },
-      {
-        "id": 13,
-        "title": "YTU - JS DOM",
-        "live": "https://mushkir.github.io/youtube-thumbnail-downloader-app/",
-        "techStacks": ["HTML | ", "TailwindCSS | ", "JavaScript | ", "Vite"],
-        "github": "https://github.com/Mushkir/youtube-thumbnail-downloader-app",
-        "imgLink": "https://i.ibb.co/J2crchm/screencapture-mushkir-github-io-youtube-thumbnail-downloader-app-2024-03-15-02-04-53.png",
-        "type": "F",
-        "projectType": "cdn",
-        "description": "This task was given to get more clarity on the JavaScript DOM (Document Object Model). Through this task, we can able to achieve when the user gives the URL of the YouTube video, it will show the thumbnail image of the relevant video."
-      },
-      {
-        "id": 14,
-        "title": "Advice Generator",
-        "live": "https://mushkir.github.io/advice-generator-API-based-app/",
-        "techStacks": ["HTML | ", "TailwindCSS | ", "JavaScript | ", "Vite"],
-        "github": "https://github.com/Mushkir/advice-generator-API-based-app",
-        "imgLink": "https://i.ibb.co/RHs2vc9/screencapture-mushkir-github-io-advice-generator-API-based-app-2024-03-15-02-06-41.png",
-        "type": "F",
-        "projectType": "cdn",
-        "description": "This task was given to get a more clearer understanding of how to work with the API, various types of fetching data from API, and display those data in UI based on the conditions or requirements of the users. Because, in the MERN stack, most of the time we need to work with APIs. Based on that point, these types of tasks were given by the mentor."
-      },
-      {
-        "id": 15,
-        "title": "Syllabus Organizer",
-        "live": "https://mushkir.github.io/syllabus-org-app/index.html",
-        "techStacks": ["HTML | ", "TailwindCSS | ", "JavaScript | ", "Vite"],
-        "github": "https://github.com/Mushkir/syllabus-organizer",
-        "imgLink": "https://i.ibb.co/tBsG8cF/screencapture-mushkir-github-io-syllabus-org-app-index-html-2024-03-15-02-10-04.png",
-        "type": "F",
-        "projectType": "cdn",
-        "description": "This task was given to assess the skills of previous stacks such as HTML, TailwindCSS, JavaScript, JavaScript DOM, localStorage concept, and APIs. Through this application, the user can add details about the Criteria which is shown in the UI. When the user clicks the submit button, it will show the entered details in the table, and it will show the summary of all the records. Here, the form validation is highly considered."
-      },
-      {
-        "id": 16,
-        "title": "Profile Bio - React.js",
-        "live": "https://mushkir-json-portfolio-react-app.netlify.app/",
-        "techStacks": ["React.js | ", "TailwindCSS | ", "Vite"],
-        "github": "https://github.com/Mushkir/react-portfolio-json-app",
-        "imgLink": "https://i.ibb.co/3WZTVRY/screencapture-mushkir-json-portfolio-react-app-netlify-app-full-Portfolio-2024-03-15-02-20-07.png",
-        "type": "F",
-        "projectType": "cdn",
-        "description": "This task was given to get a basic understanding of React.js such as Configuring a new React Project with Vite and creating things using React.js before diving into the concept of React components. If we understand the basic configuration of React then it is easier to move to the next steps in React. "
-      },
-      {
-        "id": 17,
-        "title": "Dummy Chat - React.js",
-        "live": "https://dummy-chat-react-app.netlify.app/",
-        "techStacks": ["React.js | ", "TailwindCSS | ", "Vite"],
-        "github": "https://github.com/Mushkir/fake-chat-react-app",
-        "imgLink": "https://i.ibb.co/sCfy0Gh/screencapture-dummy-chat-react-app-netlify-app-2024-03-15-02-22-30.png",
-        "type": "F",
-        "projectType": "cdn",
-        "description": "This task was given to get a better understanding of React.js such as Configuring a new React Project with Vite creating things using React.js and working with the events in React. "
-      },
-      {
-        "id": 18,
-        "title": "Post Finder",
-        "live": "https://post-finder-react-app.netlify.app/",
-        "techStacks": ["React.js | ", "TailwindCSS | ", "Vite"],
-        "github": "https://github.com/Mushkir/post-showing-react-app-using-API",
-        "imgLink": "https://i.ibb.co/fFH2sJP/screencapture-post-finder-react-app-netlify-app-2024-03-14-22-16-13.png",
-        "type": "F",
-        "projectType": "cdn",
-        "description": "This task was given to get an understanding of React States such as \"useState\", and \"useEffect\" and how to fetch the data from API with the help of \"useEffect\"."
-      },
-      {
-        "id": 19,
-        "title": "React Components - Demo",
-        "live": "https://react-components-app-task.netlify.app/",
-        "techStacks": ["React.js | ", "TailwindCSS | ", "Vite"],
-        "github": "https://github.com/Mushkir/react-components",
-        "imgLink": "https://i.ibb.co/nQPKvXt/screencapture-react-components-app-task-netlify-app-2024-03-15-02-26-38.png",
-        "type": "F",
-        "projectType": "cdn",
-        "description": "This task was given to get an understanding of Components which is one of the important concepts in React. Through this task, got the basic idea of creating reusable components in React and the concept of \"Props\" such as passing and validating \"Props\"."
-      },
-      {
-        "id": 20,
-        "title": "Form Validation - React-Hook-Form",
-        "live": "https://react-form-validation-react-hook-form.netlify.app/",
-        "techStacks": ["React.js | ", "TailwindCSS | ", "Vite"],
-        "github": "https://github.com/Mushkir/react-form-validation-react-hook-form",
-        "imgLink": "https://i.ibb.co/yX2krwk/screencapture-react-form-validation-react-hook-form-netlify-app-2024-03-15-02-30-09.png",
-        "type": "F",
-        "projectType": "cdn",
-        "description": "The task provided me with an opportunity to understand Form Validation, a crucial concept in React. Through this task, I acquired a basic grasp of implementing form validation using \"React-Hook-Form.\""
-      },
-      {
-        "id": 21,
-        "title": "FS - Node.js",
-        "live": "",
-        "techStacks": ["Node.js"],
-        "github": "https://github.com/Mushkir/fs-app-node-js",
-        "imgLink": "https://www.loginradius.com/blog/static/6ee159acf6c294342ec04f86aede5d14/701ee/coverImage.jpg",
-        "type": "B",
-        "projectType": "cdn",
-        "description": "Node.js is one of the elements in the MERN stack. Through this task, the understanding of \"FS (File System)\" in Node.js was achieved."
-      },
-      {
-        "id": 22,
-        "title": "Interns Hub",
-        "live": "",
-        "techStacks": ["React.js | ", "Node.js | ", "Vite"],
-        "github": "https://github.com/Mushkir/interns-profile-react-node-js/tree/main",
-        "imgLink": "https://res.cloudinary.com/practicaldev/image/fetch/s--Qhu3PUis--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y63ie8bmktwik5w3mhlg.png",
-        "type": "F&B",
-        "projectType": "cdn",
-        "description": "Through this task, the understanding of creating a simple API using Node.js with a JSON file, and displaying those data in UI was achieved."
-      },
-      {
-        "id": 23,
-        "title": "Food Recipe App - Firebase",
-        "live": "https://food-recipes-react-form-with-firebase-kg1l4hzui.vercel.app/",
-        "techStacks": ["React.js | ", "TailwindCSS | ", "Vite | ", "Firebase"],
-        "github": "https://github.com/Mushkir/food-recipes-react-form-with-firebase-app",
-        "imgLink": "https://i.ibb.co/m8LYB5h/screencapture-food-recipes-react-form-with-firebase-kg1l4hzui-vercel-app-2024-03-15-02-37-13.png",
-        "type": "F&B",
-        "projectType": "cdn",
-        "description": "The task was assigned to get the experience of working with Firebase data such as adding and displaying the data from the database based on the user requirements. Firebase is a kind of real-time and NoSQL database. With the help of this task got a basic clear idea about the Firebase database."
-      },
-      {
-        "id": 24,
-        "title": "Blogify App",
-        "live": "https://blogify-app-ishb-git-main-mushkirs-projects.vercel.app/",
-        "techStacks": ["React.js | ", "TailwindCSS | ", "Vite | ", "Firebase"],
-        "github": "https://github.com/Mushkir/cyberdude-hackathon-blog-app-MERN",
-        "imgLink": "https://i.ibb.co/cwXPZmP/screencapture-blogify-app-ishb-git-main-mushkirs-projects-vercel-app-2024-03-15-02-44-38.png",
-        "type": "F&B",
-        "projectType": "cdn",
-        "description": "This application was developed during the Hackathon event organized by CyberDude Networks (Pvt) Ltd virtually. The application had to be built from scratch within 12 hours continuously. Through this application, users can perform CRUD operations. Additionally, form validation using React-Hook-Form and responsive design were considered."
+        "projectType": "personal",
+        "description": "This task was given to Xiteb Software Company Internship Task and Exam Because it is the most important aspect.  "
       }
+    
     ],
 
     "academic": [
@@ -325,12 +172,14 @@
         "projectType": "ac",
         "description": "As Developer, we have been assigned an self Task, which involves creating a Github Tools for a Github Organization. The project is named \"Github Development\" and aims to provide services through a web-based application. You can explore the GitHub repository to get further details of this project by clicking the GitHub button."
       }
+      
+    
     ],
     "personal": [
       {
         "id": 1,
         "title": "City-Taxi",
-        "live": "",
+        "live": "https://streamable.com/6c1o7i",
         "techStacks": [
           "Bootstrap | ",
           "JavaScript | ",
